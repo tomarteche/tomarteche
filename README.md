@@ -1,8 +1,8 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Developer;Building+Web+Apps+and+Systems" />
-</p>
-
 <h1 align="center">Tom Arteche</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=14&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Developer;Building+Web+Apps+and+Systems" />
+</p>
 
 <p align="center">
 Full-Stack Web and Software Developer focused on building scalable applications, business systems, and modern web tools.
