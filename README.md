@@ -61,7 +61,7 @@ MSSQL • MySQL
 
 <p align="center">
   
-<img height="160" src="https://streak-stats.demolab.com?user=expoooky&theme=tokyonight"/>
+<img height="160" src="https://streak-stats.demolab.com?user=expoooky"/>
 
 </p>
 
