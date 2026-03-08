@@ -14,8 +14,8 @@ Full-Stack Web and Software Developer focused on building scalable applications,
 <img src="https://img.shields.io/badge/Portfolio-tomarteche.dev-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/expoooky" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-expoooky-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/tomarteche" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-tomarteche-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tomarteche" target="_blank">
@@ -61,7 +61,7 @@ MSSQL • MySQL
 
 <p align="center">
   
-<img height="160" src="https://streak-stats.demolab.com?user=expoooky"/>
+<img height="160" src="https://streak-stats.demolab.com?user=tomarteche"/>
 
 </p>
 
