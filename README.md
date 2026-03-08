@@ -1,4 +1,4 @@
-<p align="center" style="font-size:28px; font-weight:bold;">Tom Arteche</p>
+<h2 align="center">Tom Arteche</h2>
 <p align="center">
   
 <img src="https://readme-typing-svg.herokuapp.com?size=14&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Web+Developer;Software+Developer;Building+Web+Apps+and+Systems" />
