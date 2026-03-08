@@ -17,7 +17,7 @@ Full-Stack Web and Software Developer focused on building scalable applications,
 <img src="https://img.shields.io/badge/GitHub-expoooky-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/tomarteche">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
