@@ -9,15 +9,15 @@ Full-Stack Web and Software Developer focused on building scalable applications,
 
 <p align="center">
 
-<a href="https://tomarteche.dev">
+<a href="https://tomarteche.dev" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-tomarteche.dev-black?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="https://github.com/expoooky">
+<a href="https://github.com/expoooky" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-expoooky-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/tomarteche">
+<a href="https://www.linkedin.com/in/tomarteche" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
