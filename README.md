@@ -2,6 +2,10 @@
 
 Full-Stack Software and Web Developer focused on building scalable, efficient, and user-friendly applications. I enjoy creating systems that solve real business problems, from logistics portals to developer tools and SaaS platforms.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=expoooky&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=expoooky&theme=tokyonight)
+
 ---
 
 ## Links
